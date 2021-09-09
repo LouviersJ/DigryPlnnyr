@@ -1,0 +1,58 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    background-color: azure;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+html{
+    font-size: 17px;
+}
+
+body{
+    width:100%;
+    min-height: 155vh;
+    border: 5px solid rgb(166, 222, 236);
+}
+
+#DigryPlannyr{
+    position:absolute;
+    color:cornflowerblue;
+    left:40%;
+    font-size: xxx-large;
+}
+
+#ProfilePic{
+    position:absolute;
+    top: 2%;
+    left: 1%;
+    border: 7px solid rgb(237, 249, 252);
+}
+
+#ProfileTop {
+    position: absolute;
+    font-size:medium;
+    left: 200px;
+    top: 120px;
+    color: cornflowerblue;
+}
+
+#Classes{
+    border-spacing: 2px;
+    position:absolute;
+    left: 20px;
+    top: 300px;
+    border: 5px solid rgb(237, 249, 252);
+    text-align: center;
+    font-size: 15px;
+}
+
+.requirements_menu{
+    font-size: 20px;
+    position:relative;
+    text-align:end;
+    top:30vh;
+    right:1vw;
+    color:cornflowerblue
+}
